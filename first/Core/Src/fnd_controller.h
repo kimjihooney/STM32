@@ -40,7 +40,9 @@ void digit2(int n, int port, int replay);
 
 void digit2_port(int n, int port);
 
-void digit4_temper(int n, int replay);
+//void digit4_temper(int n, int replay);
+
+void digit4_temper(int temper);
 
 
 #endif /* SRC_FND_CONTROLLER_H_ */
